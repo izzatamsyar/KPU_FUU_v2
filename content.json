@@ -1,0 +1,734 @@
+{
+  "fields": [
+    {
+      "id": 0,
+      "name": "Undang-Undang Kewangan Islam",
+      "description": "Kontrak, institusi dan kawal selia sistem kewangan Islam."
+    },
+    {
+      "id": 1,
+      "name": "Pengurusan & Pewarisan Harta",
+      "description": "Pemilikan, perancangan harta dan pewarisan dalam masyarakat kontemporari."
+    },
+    {
+      "id": 2,
+      "name": "Wakaf, Zakat & Hibah",
+      "description": "Instrumen pengurusan dan agihan kekayaan untuk manfaat masyarakat."
+    },
+    {
+      "id": 3,
+      "name": "Fintech & Aset Digital",
+      "description": "Cabaran perundangan teknologi kewangan, aset digital dan kontrak pintar."
+    },
+    {
+      "id": 4,
+      "name": "Tadbir Urus Syariah",
+      "description": "Prinsip Syariah, kuasa institusi dan akauntabiliti dalam kewangan."
+    },
+    {
+      "id": 5,
+      "name": "Perlindungan Pengguna",
+      "description": "Kefahaman kontrak, hak dan perlindungan pengguna kewangan."
+    },
+    {
+      "id": 6,
+      "name": "Harta Intelek",
+      "description": "Perlindungan hak harta intelek serta penyelesaian pertikaian dalam talian."
+    },
+    {
+      "id": 7,
+      "name": "Jenayah Syariah Siber",
+      "description": "Prosedur, keterangan dan cabaran pendakwaan jenayah Syariah dalam ruang siber."
+    },
+    {
+      "id": 8,
+      "name": "Etika & Tadbir Urus Korporat",
+      "description": "Tanggungjawab sosial, etika perniagaan dan tadbir urus organisasi."
+    },
+    {
+      "id": 9,
+      "name": "Kewangan Sosial & Mampan",
+      "description": "Kewangan hijau, sukuk, keterangkuman dan kesejahteraan sosial."
+    },
+    {
+      "id": 10,
+      "name": "Pembangunan Dasar & Reformasi Undang-Undang",
+      "description": "Penyelidikan yang menyokong wacana dasar dan pembaharuan undang-undang."
+    }
+  ],
+  "members": [
+    {
+      "id": 0,
+      "name": "Prof. Dr. Ruzian Markom",
+      "role": "Ketua KPU",
+      "specialisation": "Islamic Finance Law, Islamic Transactions Law, Consumer Law",
+      "image": "image2.png",
+      "fields": [
+        0,
+        2,
+        4,
+        5,
+        10
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Prof. Dr. Zinatul Ashiqin Zainol",
+      "role": "Ahli KPU",
+      "specialisation": "Intellectual Property Law, Online Dispute Resolution",
+      "image": "image3.png",
+      "fields": [
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Profesor Madya Dr. Shifa Mohd Nor",
+      "role": "Ahli KPU",
+      "specialisation": "Corporate Social Responsibility; Business Ethics; Islamic Banking; Social Banking",
+      "image": "image4.png",
+      "fields": [
+        0,
+        8,
+        9
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Mohd Izzat Amsyar Mohd Arif",
+      "role": "Ahli KPU",
+      "specialisation": "Islamic Banking & Finance Law, Islamic Transaction Law (Muamalat), Shariah Governance, Islamic Family Law",
+      "image": "image5.png",
+      "fields": [
+        0,
+        1,
+        4,
+        10
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dr. Asma Hakimah Ab. Halim",
+      "role": "Ahli KPU",
+      "specialisation": "Islamic Finance Law",
+      "image": "image6.png",
+      "fields": [
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Mohamad Azhan Yahya",
+      "role": "Ahli KPU",
+      "specialisation": "Shariah Criminal Procedure and Evidence, and Islamic Criminal Law",
+      "image": "image7.png",
+      "fields": [
+        7
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "code": "GETS-2026",
+      "title": "Pembangunan Model Kerangka Perundangan dan Polisi Bersepadu bagi Pewarisan Aset Digital di Malaysia",
+      "fields": [
+        1,
+        3,
+        10
+      ],
+      "description": "Mengkaji kerangka pemilikan dan pewarisan aset digital serta keperluan penyelarasan undang-undang dan polisi.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 1,
+      "code": "GGPM-2023-074",
+      "title": "Kerangka Perundangan Komprehensif Wakaf bagi Pembangunan Wakaf Perumahan di Malaysia.",
+      "fields": [
+        1,
+        2,
+        10
+      ],
+      "description": "Mengkaji kerangka perundangan pembangunan wakaf perumahan serta pengurusan manfaat wakaf.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 2,
+      "code": "GUP-2023-024",
+      "title": "Pembinaan Rangka Kerja Undang-undang Komprehensif dan Kawal Selia Aplikasi Teknologi Kewangan Islam.",
+      "fields": [
+        0,
+        3,
+        10
+      ],
+      "description": "Mengkaji kesesuaian undang-undang dan kawal selia bagi aplikasi teknologi kewangan Islam.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 3,
+      "code": "UU-2024-018",
+      "title": "Analisis Kelompangan Undang-undang berkaitan Pendakwaan bagi Menangani Isu Jenayah Syariah Siber.",
+      "fields": [
+        7,
+        10
+      ],
+      "description": "Menganalisis kelompangan undang-undang berkaitan pendakwaan jenayah Syariah siber.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 4,
+      "code": "UU-2025-007",
+      "title": "Analisis Perundangan dan Syariah dalam Pembangunan Produk Khairat: Kajian Kes Model Produk Dar Al Istithmar.",
+      "fields": [
+        0,
+        1,
+        2
+      ],
+      "description": "Menganalisis aspek perundangan dan Syariah dalam model produk khairat Dar Al Istithmar.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 5,
+      "code": "UU-2025-012",
+      "title": "Pembinaan Glosari Istilah Bahasa Melayu dalam Kontrak Perbankan Islam.",
+      "fields": [
+        0,
+        5
+      ],
+      "description": "Membina glosari istilah Bahasa Melayu bagi membantu kefahaman kontrak perbankan Islam.",
+      "type": "Penyelidikan",
+      "potential": "Berpotensi menyokong penambahbaikan kerangka undang-undang, amalan dan kefahaman dalam bidang berkaitan."
+    },
+    {
+      "id": 6,
+      "code": "Kertas Polisi (2026)",
+      "title": "Fatwa Penetapan Kadar Zakat Fitrah Negeri Selangor Tahun 1447H/2026 Berdasarkan Harga dan Jenis Beras di Pasaran. (Pemegang taruh: Lembaga Zakat Selangor dan Majlis Agama Islam Selangor).",
+      "fields": [
+        2,
+        10
+      ],
+      "description": "Kajian penetapan kadar zakat fitrah berdasarkan harga dan jenis beras di pasaran; pemegang taruh yang dinyatakan ialah Lembaga Zakat Selangor dan Majlis Agama Islam Selangor.",
+      "type": "Kertas polisi",
+      "potential": "Bahan sokongan untuk pertimbangan dasar dan fatwa."
+    }
+  ],
+  "publications": [
+    {
+      "id": 0,
+      "title": "Tiba masa Akta Tabung Haji dipinda",
+      "authors": "Mohd. Izzat Amsyar Mohd. Arif.",
+      "year": "2026",
+      "source": "Utusan Malaysia. https://www.utusan.com.my/premium/2026/08/tiba-masa-akta-tabung-haji-dipinda/",
+      "type": "Rencana",
+      "citation": "Mohd. Izzat Amsyar Mohd. Arif. (2026, August 5). Tiba masa Akta Tabung Haji dipinda. Utusan Malaysia. https://www.utusan.com.my/premium/2026/08/tiba-masa-akta-tabung-haji-dipinda/",
+      "fields": [
+        10,
+        0
+      ],
+      "members": [
+        3
+      ],
+      "url": "https://www.utusan.com.my/premium/2026/08/tiba-masa-akta-tabung-haji-dipinda/",
+      "incomplete": false
+    },
+    {
+      "id": 1,
+      "title": "Kerangka perundangan komprehensif wakaf bagi pembangunan wakaf perumahan di Malaysia",
+      "authors": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, & Suhaizad Saifuddin.",
+      "year": "2026",
+      "source": "",
+      "type": "Belum diperincikan",
+      "citation": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, & Suhaizad Saifuddin. (2026). Kerangka perundangan komprehensif wakaf bagi pembangunan wakaf perumahan di Malaysia. ",
+      "fields": [
+        2,
+        1
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": true
+    },
+    {
+      "id": 2,
+      "title": "The missing shield: Addressing jurisprudential lag and structural misalignment in Malaysia's Islamic fintech regulatory framework",
+      "authors": "Adif Fairullah Jamaludin, Ruzian Markom, Asma Hakimah Ab. Halim, Mohd Izzat Amsyar Mohd Arif, & Hanifah Haydar Ali Tajuddin.",
+      "year": "2026",
+      "source": "International Journal of Research and Innovation in Social Science, 2027–2034",
+      "type": "Artikel ilmiah",
+      "citation": "Adif Fairullah Jamaludin, Ruzian Markom, Asma Hakimah Ab. Halim, Mohd Izzat Amsyar Mohd Arif, & Hanifah Haydar Ali Tajuddin. (2026). The missing shield: Addressing jurisprudential lag and structural misalignment in Malaysia's Islamic fintech regulatory framework. International Journal of Research and Innovation in Social Science, 2027–2034.",
+      "fields": [
+        3,
+        0,
+        10
+      ],
+      "members": [
+        0,
+        3,
+        4
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 3,
+      "title": "Pelaksanaan hibah amanah di institusi-institusi perancangan harta Islam di Malaysia",
+      "authors": "Ubaidullah Asyraf Ahmad Shokeri, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif.",
+      "year": "2025",
+      "source": "Current Legal Issues, 1–15",
+      "type": "Artikel ilmiah",
+      "citation": "Ubaidullah Asyraf Ahmad Shokeri, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif. (2025). Pelaksanaan hibah amanah di institusi-institusi perancangan harta Islam di Malaysia. Current Legal Issues, 1–15.",
+      "fields": [
+        1,
+        2
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 4,
+      "title": "Buy now pay later (BNPL) in Malaysia: A Shariah and consumer protection analysis",
+      "authors": "Nur Aina Farisha Anuar Ali, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif.",
+      "year": "2025",
+      "source": "International Journal of Research and Innovation in Social Science, 5557–5566",
+      "type": "Artikel ilmiah",
+      "citation": "Nur Aina Farisha Anuar Ali, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif. (2025). Buy now pay later (BNPL) in Malaysia: A Shariah and consumer protection analysis. International Journal of Research and Innovation in Social Science, 5557–5566.",
+      "fields": [
+        3,
+        5,
+        4
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 5,
+      "title": "Legal governance of microfinance in Malaysia: Addressing borrower default through tiered enforcement and institutional sustainability",
+      "authors": "Siti Amira Yaacob, & Ruzian Markom.",
+      "year": "2025",
+      "source": "International Journal of Research and Innovation in Social Science, 609–621",
+      "type": "Artikel ilmiah",
+      "citation": "Siti Amira Yaacob, & Ruzian Markom. (2025). Legal governance of microfinance in Malaysia: Addressing borrower default through tiered enforcement and institutional sustainability. International Journal of Research and Innovation in Social Science, 609–621.",
+      "fields": [
+        9,
+        0
+      ],
+      "members": [
+        0
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 6,
+      "title": "The application of maslahah in justifying ta’widh and gharamah in Islamic finance: A Malaysian perspective",
+      "authors": "Nur Adibah Zahra Amirul Shazli, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif.",
+      "year": "2025",
+      "source": "International Journal of Research and Innovation in Social Science, 6880–6892",
+      "type": "Artikel ilmiah",
+      "citation": "Nur Adibah Zahra Amirul Shazli, Ruzian Markom, & Mohd Izzat Amsyar Mohd Arif. (2025). The application of maslahah in justifying ta’widh and gharamah in Islamic finance: A Malaysian perspective. International Journal of Research and Innovation in Social Science, 6880–6892.",
+      "fields": [
+        4,
+        0
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 7,
+      "title": "The role of the financial metaverse and its compliance with Shariah principles",
+      "authors": "Asma Hakimah Ab Halim, Ruzian Markom, & Wan Amir Azlan Wan Haniff.",
+      "year": "2025",
+      "source": "In Leveraging advanced technologies: Business model innovation and the future (pp. 551–557)",
+      "type": "Bab buku",
+      "citation": "Asma Hakimah Ab Halim, Ruzian Markom, & Wan Amir Azlan Wan Haniff. (2025). The role of the financial metaverse and its compliance with Shariah principles. In Leveraging advanced technologies: Business model innovation and the future (pp. 551–557).",
+      "fields": [
+        3,
+        4
+      ],
+      "members": [
+        0,
+        4
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 8,
+      "title": "Enhancing waqf governance and management: Aligning Shariah principles with public sector governance for enduring societal well-being",
+      "authors": "Marziana Abd. Malib, Ida Rahayu Mahat, Ruzian Markom, Mimi Sofiah Ahmad Mustafa, Yuhanza Othman, & Mohd Abdul Malek Md Shah.",
+      "year": "2025",
+      "source": "International Journal of Research and Innovation in Social Science, 4937–4950",
+      "type": "Artikel ilmiah",
+      "citation": "Marziana Abd. Malib, Ida Rahayu Mahat, Ruzian Markom, Mimi Sofiah Ahmad Mustafa, Yuhanza Othman, & Mohd Abdul Malek Md Shah. (2025). Enhancing waqf governance and management: Aligning Shariah principles with public sector governance for enduring societal well-being. International Journal of Research and Innovation in Social Science, 4937–4950.",
+      "fields": [
+        2,
+        4,
+        9
+      ],
+      "members": [
+        0
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 9,
+      "title": "Empowering Malaysia's Islamic social finance system: Integrating zakat management through financial technology",
+      "authors": "Al Jeffery Haqim Mohd Azman, & Ruzian Markom.",
+      "year": "2025",
+      "source": "Asian Journal of Law and Policy, 385–400",
+      "type": "Artikel ilmiah",
+      "citation": "Al Jeffery Haqim Mohd Azman, & Ruzian Markom. (2025). Empowering Malaysia's Islamic social finance system: Integrating zakat management through financial technology. Asian Journal of Law and Policy, 385–400.",
+      "fields": [
+        2,
+        3,
+        9
+      ],
+      "members": [
+        0
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 10,
+      "title": "Menilai prinsip ketidakbolehsangkalan hakmilik tanah dalam kerangka maqasid Shariah di Malaysia",
+      "authors": "Nur Atheefa Sufeena M Suaree, Mohd Izzat Amsyar Mohd Arif, & Wan Farahiyah Izni Wan Abdul Rahman.",
+      "year": "2025",
+      "source": "Al-Qanatir: International Journal of Islamic Studies, 25–33",
+      "type": "Artikel ilmiah",
+      "citation": "Nur Atheefa Sufeena M Suaree, Mohd Izzat Amsyar Mohd Arif, & Wan Farahiyah Izni Wan Abdul Rahman. (2025). Menilai prinsip ketidakbolehsangkalan hakmilik tanah dalam kerangka maqasid Shariah di Malaysia. Al-Qanatir: International Journal of Islamic Studies, 25–33.",
+      "fields": [
+        1,
+        4
+      ],
+      "members": [
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 11,
+      "title": "Analyzing social viability of the commercial real estate waqf in Malaysia",
+      "authors": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Faezy Adenan, & Muhammad Syahrul Deen Ahmad Rosli.",
+      "year": "2024",
+      "source": "Akademika, 280–297",
+      "type": "Artikel ilmiah",
+      "citation": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Faezy Adenan, & Muhammad Syahrul Deen Ahmad Rosli. (2024). Analyzing social viability of the commercial real estate waqf in Malaysia. Akademika, 280–297.",
+      "fields": [
+        2,
+        9
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 12,
+      "title": "Inovasi pembangunan wakaf hartanah komersial",
+      "authors": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, & Faezy Adenan.",
+      "year": "2024",
+      "source": "[Maklumat penerbitan belum dinyatakan], 158",
+      "type": "Belum diperincikan",
+      "citation": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, & Faezy Adenan. (2024). Inovasi pembangunan wakaf hartanah komersial. [Maklumat penerbitan belum dinyatakan], 158.",
+      "fields": [
+        2,
+        1
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": true
+    },
+    {
+      "id": 13,
+      "title": "Pelaksanaan wakaf blockchain dalam sistem kewangan Islam di Malaysia",
+      "authors": "Mahfuzah Hamizah Mohd Ariff, Ruzian Markom, Mohd Izzat Amsyar Mohd Arif, & Faezy Adenan.",
+      "year": "2024",
+      "source": "Al-Qanatir: International Journal of Islamic Studies, 123–129",
+      "type": "Artikel ilmiah",
+      "citation": "Mahfuzah Hamizah Mohd Ariff, Ruzian Markom, Mohd Izzat Amsyar Mohd Arif, & Faezy Adenan. (2024). Pelaksanaan wakaf blockchain dalam sistem kewangan Islam di Malaysia. Al-Qanatir: International Journal of Islamic Studies, 123–129.",
+      "fields": [
+        2,
+        3
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 14,
+      "title": "Institusi kewangan Islam sebagai penggerak ekonomi",
+      "authors": "Ruzian Markom.",
+      "year": "2024",
+      "source": "Dewan Masyarakat, 22–23",
+      "type": "Rencana",
+      "citation": "Ruzian Markom. (2024). Institusi kewangan Islam sebagai penggerak ekonomi. Dewan Masyarakat, 22–23.",
+      "fields": [
+        0,
+        9
+      ],
+      "members": [
+        0
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 15,
+      "title": "Enhancing the statutory roles of the Shariah Advisory Council of Bank Negara Malaysia through technological advancement: A way forward",
+      "authors": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Faezy Adenan, & Suhaizad Saifuddin.",
+      "year": "2024",
+      "source": "KnE Social Sciences, 928–940",
+      "type": "Artikel ilmiah",
+      "citation": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Faezy Adenan, & Suhaizad Saifuddin. (2024). Enhancing the statutory roles of the Shariah Advisory Council of Bank Negara Malaysia through technological advancement: A way forward. KnE Social Sciences, 928–940.",
+      "fields": [
+        4,
+        3,
+        10
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 16,
+      "title": "Cryptocurrency: A currency or investment asset? KnE Social Sciences, 997–1012",
+      "authors": "Norhanan Che Kamaruddin, Mohd Izzat Amsyar Mohd Arif, & Ruzian Markom.",
+      "year": "2024",
+      "source": "",
+      "type": "Artikel ilmiah",
+      "citation": "Norhanan Che Kamaruddin, Mohd Izzat Amsyar Mohd Arif, & Ruzian Markom. (2024). Cryptocurrency: A currency or investment asset? KnE Social Sciences, 997–1012.",
+      "fields": [
+        3
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 17,
+      "title": "Sistem kewangan Islam dalam mencapai maqasid al-Syariah",
+      "authors": "Ruzian Markom.",
+      "year": "2024",
+      "source": "Dewan Masyarakat, 28–31",
+      "type": "Rencana",
+      "citation": "Ruzian Markom. (2024). Sistem kewangan Islam dalam mencapai maqasid al-Syariah. Dewan Masyarakat, 28–31.",
+      "fields": [
+        0,
+        4,
+        9
+      ],
+      "members": [
+        0
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 18,
+      "title": "Policy approach adopted for issuance of green sukuk: Is priority given to priority needed areas? Journal of Islamic Accounting and Business Research, 818–837",
+      "authors": "Abdur Rahman, Abu Umar Faruq Ahmad, Saeed Awadh Bin-Nashwan, Aishath Muneeza, Asma Hakimah Abdul Halim, & Ruzian Markom.",
+      "year": "2024",
+      "source": "",
+      "type": "Artikel ilmiah",
+      "citation": "Abdur Rahman, Abu Umar Faruq Ahmad, Saeed Awadh Bin-Nashwan, Aishath Muneeza, Asma Hakimah Abdul Halim, & Ruzian Markom. (2024). Policy approach adopted for issuance of green sukuk: Is priority given to priority needed areas? Journal of Islamic Accounting and Business Research, 818–837.",
+      "fields": [
+        9,
+        4
+      ],
+      "members": [
+        0,
+        4
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 19,
+      "title": "The visionary philosophy of Shariah governance in Islamic financial system: Pioneering green finance for a sustainable future",
+      "authors": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Nur Atheefa Sufeena M Suaree, Wan Farahiyah Izni W Abd Rahman, Siti Farahiyah Ab Rahim, Faezy Adenan, & Muhammad Syahrul Deen Ahmad Rosli.",
+      "year": "2024",
+      "source": "International Journal of Academic Research in Business and Social Sciences, 2166–2175",
+      "type": "Artikel ilmiah",
+      "citation": "Mohd Izzat Amsyar Mohd Arif, Ruzian Markom, Nur Atheefa Sufeena M Suaree, Wan Farahiyah Izni W Abd Rahman, Siti Farahiyah Ab Rahim, Faezy Adenan, & Muhammad Syahrul Deen Ahmad Rosli. (2024). The visionary philosophy of Shariah governance in Islamic financial system: Pioneering green finance for a sustainable future. International Journal of Academic Research in Business and Social Sciences, 2166–2175.",
+      "fields": [
+        9,
+        4
+      ],
+      "members": [
+        0,
+        3
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 20,
+      "title": "Financial technology: An overview on Shariah and legal implication",
+      "authors": "Asma Hakimah Ab Halim, Mustafa 'Afifi Ab Halim, & Mohd Izzat Amsyar Mohd Arif.",
+      "year": "2024",
+      "source": "KnE Social Sciences, 1027–1037",
+      "type": "Artikel ilmiah",
+      "citation": "Asma Hakimah Ab Halim, Mustafa 'Afifi Ab Halim, & Mohd Izzat Amsyar Mohd Arif. (2024). Financial technology: An overview on Shariah and legal implication. KnE Social Sciences, 1027–1037.",
+      "fields": [
+        3,
+        0,
+        4
+      ],
+      "members": [
+        3,
+        4
+      ],
+      "url": null,
+      "incomplete": false
+    },
+    {
+      "id": 21,
+      "title": "Regulatory framework on smart contracts: A comparative analysis",
+      "authors": "Zulhazmi Yusof, Wan Amir Azlan Wan Haniff, Hartini Saripan, Sheela Jayabala Krishnan Jayabalan, & Asma Hakimah Ab Halim.",
+      "year": "2024",
+      "source": "Information Management and Business Review, 221–230",
+      "type": "Artikel ilmiah",
+      "citation": "Zulhazmi Yusof, Wan Amir Azlan Wan Haniff, Hartini Saripan, Sheela Jayabala Krishnan Jayabalan, & Asma Hakimah Ab Halim. (2024). Regulatory framework on smart contracts: A comparative analysis. Information Management and Business Review, 221–230.",
+      "fields": [
+        3,
+        10
+      ],
+      "members": [
+        4
+      ],
+      "url": null,
+      "incomplete": false
+    }
+  ],
+  "impacts": [
+    {
+      "title": "Daripada kajian pasaran kepada pertimbangan fatwa",
+      "label": "Impak dasar & fatwa",
+      "text": "Sumbangan kepakaran kepada kajian penetapan kadar zakat fitrah Selangor 1447H/2026, berdasarkan harga dan jenis beras di pasaran.",
+      "image": "image8.png",
+      "fields": [
+        2,
+        10
+      ],
+      "projects": [
+        6
+      ],
+      "pubs": [],
+      "note": "Sumbangan kajian direkodkan dalam dokumen KPU."
+    },
+    {
+      "title": "Membuka wacana pembaharuan Akta Tabung Haji",
+      "label": "Reformasi perundangan",
+      "text": "Rencana “Tiba masa Akta Tabung Haji dipinda” mengetengahkan cadangan pembaharuan tadbir urus institusi kewangan Islam.",
+      "image": "image9.jpeg",
+      "fields": [
+        0,
+        10
+      ],
+      "projects": [],
+      "pubs": [
+        0
+      ],
+      "note": "Sumbangan advokasi; bukan pengesahan bahawa pindaan telah diluluskan."
+    },
+    {
+      "title": "Undang-undang yang responsif kepada kewangan digital",
+      "label": "Tadbir urus fintech Islam",
+      "text": "Penyelidikan dan penerbitan mengenai blockchain, aset kripto, BNPL, kontrak pintar dan kawal selia fintech Islam memperluas wacana perundangan dan tadbir urus.",
+      "image": null,
+      "fields": [
+        3,
+        4,
+        5
+      ],
+      "projects": [
+        0,
+        2
+      ],
+      "pubs": [
+        2,
+        4,
+        7,
+        9,
+        13,
+        15,
+        16,
+        20,
+        21
+      ],
+      "note": "Sumbangan melalui penyelidikan dan penerbitan; pelaksanaan cadangan dasar tidak dinyatakan."
+    },
+    {
+      "title": "Ilmu pewarisan untuk pembangunan profesional",
+      "label": "Pemerkasaan pengurusan kekayaan",
+      "text": "Kohort pertama Sijil Profesional Undang-Undang Pewarisan Harta Islam (SUUWARIS) memperluas perkongsian ilmu pengurusan harta Islam, wakaf dan hibah amanah.",
+      "image": "image10.jpeg",
+      "fields": [
+        1,
+        2
+      ],
+      "projects": [],
+      "pubs": [
+        3
+      ],
+      "note": "Pelaksanaan program direkodkan; bilangan peserta dan ukuran hasil tidak dinyatakan."
+    },
+    {
+      "title": "Kewangan yang menyokong kesejahteraan bersama",
+      "label": "Kelestarian & kesejahteraan sosial",
+      "text": "Penyelidikan kewangan hijau, sukuk, keterangkuman kewangan dan kewangan sosial meneliti hubungan tadbir urus kewangan dengan Maqasid Syariah.",
+      "image": null,
+      "fields": [
+        9,
+        4,
+        8
+      ],
+      "projects": [],
+      "pubs": [
+        5,
+        8,
+        11,
+        17,
+        18,
+        19
+      ],
+      "note": "Sumbangan ilmiah; manfaat jangka panjang ialah potensi aplikasi penyelidikan."
+    }
+  ]
+}
